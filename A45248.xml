@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Forced uniformity neither Christian nor prudent Presented to those in authority whom it may concern.</title>
+            <author>Hutchinson, Thomas, Quaker.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45248</idno>
+            <idno type="STC">Wing H3836</idno>
+            <idno type="STC">ESTC R217016</idno>
+            <idno type="EEBO-CITATION">99828718</idno>
+            <idno type="PROQUEST">99828718</idno>
+            <idno type="VID">33149</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45248)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33149)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1868:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Forced uniformity neither Christian nor prudent Presented to those in authority whom it may concern.</title>
+                  <author>Hutchinson, Thomas, Quaker.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: 17th of the 2d month, 1675. Tho. Hutchinson.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Liberty of conscience --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Legal status, laws, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:33149:1" rendition="simple:additions"/>
+            <head>FORCED UNIFORMITY NEITHER <hi>CHRISTIAN</hi> nor <hi>PR<g ref="char:V">Ʋ</g>DENT.</hi>
+            </head>
+            <head>Preſented To thoſe in AUTHORITY whom it may concern.</head>
+            <p>FRiends, <hi>I have had ſome ferrous Conſiderations upon my Hear: to preſent to you, ſignifying how that an</hi> Uniformity <hi>in Matters of</hi> Worſhip <hi>could not be in any or moſt of the Ages of the World, gained and maintained, effected or eſtabliſhed, and how that the Nations of the Earth have been upon Heaps about it; and in moſt Ages the beſt Sort of Men have been Sufferers in Things appertaining to Conſcience, becauſe their Number hath been in all (or moſt Ages) but ſmall in Com<g ref="char:EOLhyphen"/>pariſon of the vain Multitude; and my Deſign here is, to ſh<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w or ſignifie to you, that in moſt, or all Ages, there have been</hi> Diviſions <hi>in the Earth a<g ref="char:EOLhyphen"/>bout</hi> Religion <hi>from the very firſt to this Day, and this Thing called</hi> Unifor<g ref="char:EOLhyphen"/>mity, <hi>that Rulers of Nations have been ſtriving about for ſome Hundreds, or as I may ſay, ſome Thouſands of Years, is uneffected to this preſent Day, notwithſtanding as much Force and Violence hath been uſed, as well as you or any People elſe can deviſe or invent to make <g ref="char:V">Ʋ</g>ſe of to effect this Work: So I deſire you may for the Nations Good conſider of theſe Things; for this be aſſured of, I write not theſe Things unto you becauſe we faint in Suffering, or grow weary of what we have taken in Hand by the conſtraining Power of our God, whoſe Preſence is better to us then Life it ſelf; but I aſſuredly know, there are many hundreds had rather part with Life it ſelf, and all they have, then faint or grow weary in ſuffering for Chriſt's ſake, who hath been ſo good and faithful a God unto them in the midſt of many deep Sufferings; and I am ſatisfied, he that hath kept us hitherto will keep us to the End, whatever we endure for his Names ſake; for we have learned to forgive our Enemies, and do Good to them that do Evil to us, and therefore do deſire your Souls Good as our own, knowing that our God hath called to you by the Spirit of his Son Chriſt, in your Conſciences, that he might deliver your Souls from Hell, and front the Horrible Pit, if you will but learn of him, and hearken to the Call of Chriſt, the true Light,</hi> Joh. 1.9. <hi>And ſo to him that ſearcheth the Heart, and tries the Reins, and ſees every ſecret Thought, and is as a ſhining Light in your Hearts, many a Time, to give you to diſcern betwixt that which is good and evil, do I recoommend what here I have written.</hi>
+            </p>
+            <pb n="2" facs="tcp:33149:2"/>
+            <p> HAving viewed many <hi>Laws</hi> by you made about Matters of <hi>Religion</hi> and <hi>Worſhip,</hi> and alſo having caſt my Eye backward into the Ages paſt, I do find that many Endeavours have been on Foot, and many Laws made by divers and ſundry Rulers of Nations and People, both <hi>Ec<g ref="char:EOLhyphen"/>cl<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſiaſtical</hi> and <hi>Temporal</hi> ſo call'd, to force Men to an <hi>
+                  <g ref="char:V">Ʋ</g>niformity</hi> in Matters of Religion and Worſhip, for many hundreds of Years paſt and gone; and the Nations, and ſeveral of the Profeſſors of the divers Sorts of Wor<g ref="char:EOLhyphen"/>ſhippers have been over and over again involv'd in Blood and War, through Ages and Generations, that it would make ones Heart bleed within him, to conſider the Cruelty, Murther and Bloodſhed that hath enſued in the Nations upon thoſe Accounts; one while one Sort of Religion upermoſt, and then another; and he that hath got upermoſt for the moſt Part hath been endeavouring to force all to his Opinion or Perſwaſion by Cruelty and Oppreſſion, that truly to write to you upon this Subject, I could ra<g ref="char:EOLhyphen"/>ther ſpend my Time in weeping and mourning for what hath hapen'd in the Earth (and <hi>Religion</hi> hath been moſtly the Pretence) then <hi>d<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p my Pen in ſuch a Tragedy of bloody Actions and un-chriſtian like Doings:</hi> And this Evil Spirit that hath entered the World, the Devil; the old Adverſary of Man's Happineſs hath been as a <hi>Myſtery of Iniquity</hi> working in the World, and putting People and Nations upon, to deſtroy one another, and the <hi>Pro<g ref="char:EOLhyphen"/>perties</hi> and <hi>Rights</hi> of one another, and break the Holy Law of God, which ſaith, <hi>Do as thou wouldſt be done by,</hi> from the Dayes of Perſecuting <hi>Cain</hi> and Righteous <hi>Abel</hi> to this our Day and Time; for <hi>Cain</hi> he deſtroyed his Bro<g ref="char:EOLhyphen"/>ther <hi>Abel,</hi> the ſecond Birth, becauſe be was found differing in Worſhip, and in that in which he was accepted of God, and <hi>Cain</hi> was not, and there<g ref="char:EOLhyphen"/>fore <hi>Cain</hi> was wroth, and ſlew his Righteous Brother <hi>Abel,</hi> though there was a Time when God would have had him to have done well, and ſaid, <hi>If thou doſt well, ſhalt thou not be accepted? but if thou doſt Evil,</hi>
+               <note place="margin">Gen. 4.6, 7.</note> 
+               <hi>Sin lyes at thy Door;</hi> and God ſaid unto him, <hi>Why art thou wroth? why is thy Countenance fallen?</hi> ſo I deſire, conſider God's Love and Patience to <hi>Cain:</hi> but <hi>Cain</hi> inſtead of doing well, broke God's Holy Law, and did not <hi>do as he would have been done by,</hi> and at the Inſti<g ref="char:EOLhyphen"/>gation of the Devil, ſlew his Brother, for which you may read <hi>God's Curſe</hi> came upon him. And in thoſe Ages of the World; both good Men and bad Men were found Worſhippers of a God, but it was moſtly the good Men that ſuffered by bad Men, and the Righteous Worſhipper by the Unrigh<g ref="char:EOLhyphen"/>teous; and how <hi>had all Fleſh corrupted its Wayes</hi> in the Dayes of Righteous <hi>Noah,</hi> who was a <hi>Preacher of Righteouſneſs,</hi> not only in <hi>Words,</hi> but <hi>Life</hi> and <hi>Converſation;</hi> and their Violence and Wickedneſs was ſo great, that God ſaid, <hi>It repented him that he had made Man?</hi> And after thoſe Dayes,<note place="margin">Gen. 6.6.</note> there was Righteous <hi>Abraham, Lot</hi> and <hi>Melchi<g ref="char:EOLhyphen"/>zedeck,</hi>
+               <pb n="3" facs="tcp:33149:2"/>Worſhippers of the moſt High God; but there was the Curſed Stock of <hi>Ham</hi> in thoſe Dayes, that walked in his Evil Wayes, like the <hi>Sodomites</hi> that evilly intreated Righteous <hi>Lot</hi> and the two <hi>Angels</hi> of God, though the Lord ſaid to <hi>Abraham,</hi> he would not have deſtroy'd it if there had been found in her but <hi>Ten Righteous Perſons:</hi> And in the very Family of <hi>Iſaac,</hi> there was <hi>Eſau,</hi> a vain Man,<note place="margin">Gen. 18.32.</note> not accepted of God, though once the <hi>Birth-right</hi> was in him; but <hi>Jacob</hi> was an honeſt, ſober, plain man, and therefore God accepted of him and bleſt him: And what Laws were made, or how did the Kings of <hi>Iſrael</hi> labour to force thoſe that diſſented from them, is plainly manifeſt in the Books of their <hi>Chronicles, Kings</hi> and <hi>Prophets;</hi> but it was moſtly the <hi>Holy Men</hi> and <hi>Prophets</hi> that ſuffer'd; for they durſt not <hi>deny their God,</hi> and joyn with the <hi>falſe Worſhips</hi> of their Nation, but were ſo Conſcientious, that they ventured <hi>Life</hi> and all; ſo that the Prophet <hi>Elijah</hi> complained in his Day, That <hi>they had thrown down God's Altars, and ſlain his Children or Prophets, and he only was eſcaped;</hi>
+               <note place="margin">1 Kings 19.10.</note> ſo that grievous <hi>Perſecution</hi> was in the World in thoſe Dayes about <hi>Religion,</hi> and when the <hi>Aſſyrians</hi> beſieged <hi>Samaria,</hi> how did the then King of <hi>Iſrael Threaten</hi> to take off the Head of the good <hi>Prophet Eliſha;</hi> he was ſo blind that he thought the <hi>Prophet</hi> was Occaſion of this Evil that hapen'd to them, when it was their own <hi>Wickedneſs</hi> and <hi>Perſecuting Evil Spirits</hi> that broke God's Holy Law, and did not do as they would have been done by: but I ſhall ſum up the Subſtance of all their Wickedneſs, in <hi>Evilly entreating</hi> God's <hi>Meſſengers</hi> and <hi>Prophets,</hi> with the Saying of Chriſt Jeſus, ſaying, <hi>He had ſent unto them Prophets and Wiſe Men, ſome of them they had ſlain, and crucified, and Scourged in their Synagogues, and perſecuted them from City to City, that upon you may come all the Righteous Blood ſhed upon the Earth,<note place="margin">Mat. 23.34, 35.</note> from the Blood of Righteous</hi> Abel <hi>to</hi> Za<g ref="char:EOLhyphen"/>charias <hi>the Son of</hi> Barachias, <hi>whom you ſlew betwixt the Temple and the Altar:</hi> How had theſe Children or People of <hi>Iſrael</hi> been blinded with a <hi>Spirit of Perſecution?</hi> for ſure, if ever they had conſidered with themſelves, that they did not <hi>do as they would be done by,</hi> that is to ſay, giving the ſame <hi>Liberties</hi> that they would have had others to have given to them, if the other had gotten up into <hi>Authority</hi> over them, then one would not have per<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecuted and killed another: And how were thoſe blind <hi>Jews</hi> carryed on with a blind perſecrting Zeal, <hi>garniſhing the Sepulchres of the Prophets whom their Fathers ſlew,</hi> and <hi>making long Prayers,</hi> and <hi>walking in long Robes,</hi> and <hi>making clean the Outſide of the Cup, though the Inſide be full of Rotteneſs</hi> and all this Miſchief was done to God's Servants under a for<g ref="char:EOLhyphen"/>mal or <hi>band Zeal</hi> by a <hi>profeſſing</hi> Sort of People in thoſe Ages, who were ſo blinded by this evil, wicked Spirit, that from <hi>Abel</hi> to this Day hurries
+<pb n="4" facs="tcp:33149:3"/>People on in a <hi>blind Zeal,</hi> every Man for his own Way, in ſuch a <hi>Fierce<g ref="char:EOLhyphen"/>neſs,</hi> that one Sort of People hath been making War upon another, per<g ref="char:EOLhyphen"/>ſecuting and killing one another about <hi>Religion;</hi> ſo that in moſt Ages God hath had but a very ſmall Remnant that hath kept the Righteous Law of God, and <hi>done as they would another ſhould do to them,</hi> and <hi>loved their Neigh<g ref="char:EOLhyphen"/>bours as themſelves.</hi> And the Devil, the old Enemy of Mankind, which blined <hi>Cain,</hi> and then made him ſlay his Righteous Brother, hath from <hi>Age</hi> to <hi>Age</hi> transformed himſelf into moſt <hi>Sects</hi> and <hi>Opinions</hi> of People, and under Petence of <hi>Zeal</hi> for <hi>Religion,</hi> when he hath blinded their Eyes with Conceit of the Righteouſneſs of their own Wayes, hath put them on in an <hi>Eager Zeal,</hi> or for ſome <hi>Outward Intereſt</hi> or other that he hath ſug<g ref="char:EOLhyphen"/>geſted into their Hearts, to force all Men to <hi>their Way,</hi> or to an <hi>
+                  <g ref="char:V">Ʋ</g>nifor<g ref="char:EOLhyphen"/>mity</hi> of <hi>Worſhip,</hi> though to the utter Ruin of the <hi>Lives, Eſtates, Proper<g ref="char:EOLhyphen"/>ties</hi> and <hi>Rights</hi> of Hundreds and many Thouſands in the Ages gone; and this evil Spirit hath with theſe Coverings been at work, both amongſt <hi>Jews</hi> and <hi>Gentiles,</hi> and one might <hi>fill</hi> a <hi>large Volumn</hi> with the <hi>bloody Tragedies</hi> of this Evil One: I need not inſtance the <hi>Plurality</hi> of the <hi>Heathen Gods,</hi> and the <hi>Diviſion</hi> amongſt them, and the killing of one another about the ſetting up of their <hi>Idol-Worſhips</hi> amongſt them, here being too much of this Nature done amongſt the dark Worſhippers (as they pretend) of the true God, who have only got the outſide <hi>Form,</hi> but want the <hi>Power,</hi> and have many of them (as had the <hi>Jews,</hi> as <hi>Paul</hi> ſaid) a <hi>Zeal,</hi> but want the <hi>true <g ref="char:V">Ʋ</g>nderſtanding</hi> and <hi>godly Charity,</hi> which leads to <hi>do as one would another ſhould do to him,</hi> and <hi>love their Neighbours as themſelves,</hi> and en<g ref="char:EOLhyphen"/>deavour the Preſervation of one another, both in <hi>Life, Eſtate, Rights</hi> and <hi>Property.</hi>
+            </p>
+            <p>And truly, whilſt the State of the World ſtands as it doth, we cannot expect but there will be <hi>Diviſion,</hi> as alwayes there hath been ſince Tranſ<g ref="char:EOLhyphen"/>greſſion entered both falſe Worſhippers of divers Sorts; and true Wor<g ref="char:EOLhyphen"/>ſhippers; and the truly godly and ſober Men are but a very ſmall Number, as Chriſt ſaid, <hi>Strait is the Gate that leads to Life, and few there be that en<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers therein:</hi> And many <hi>Diviſions</hi> there were after the Apoſtles Time, and ſome in their Dayes; <hi>My Brethren,</hi> ſaith he, <hi>You have heard that Anti<g ref="char:EOLhyphen"/>chriſts will come, nay,</hi> ſaith he, <hi>they are even come already;</hi> and Chriſt ſaith, <hi>They will come in Sheeps Cloathing, but they ſhall be known by their Fruit, inwardly Ravening Wolves, ſeeking their Gain from their Quar<g ref="char:EOLhyphen"/>ters;</hi> and John <hi>ſaid, They were gone forth into the World in his Day,</hi>
+               <note place="margin">1 Joh. 4.1.</note> and ſo their Works do manifeſt them: They are Breakers of Chriſt's <hi>Royal Law,</hi> which ſaith, <hi>Love thy Neighbour as thy ſelf;</hi> and they are inwardly Ravening Wolves, whoſe Belly is their God, who ſeek their Gain from their Quarters, and like to the falſe Prophets
+<pb n="5" facs="tcp:33149:3"/>of old, and formal Profeſſors of the Law, put on Kings &amp; Rulers to deſtroy Men in <hi>Life, Eſtate</hi> and <hi>Property,</hi> who will not, and alſo thoſe who <hi>dare</hi> not for Conſcience ſake joyn with their dead Forms, whatever they <hi>ſuffer</hi> for refuſing.</p>
+            <p>And I deſire you, conſider what <hi>Laws</hi> can either you or any Men make that have not been made; look but through the <hi>Hiſtory</hi> of Times in <hi>Italy, Germany, France, England, Scotland &amp; Ireland,</hi> &amp;c. and the ſaid Effects of thoſe Laws, moſtly pretending to <hi>force</hi> People to an <hi>
+                  <g ref="char:V">Ʋ</g>niformity</hi> of Worſhip, and all hath been in vain: I deſire you, conſider <hi>J. Fox</hi>'s <hi>Acts and Monuments,</hi> and the <hi>Tragical Hiſtory</hi> of thoſe Ages within theſe ſix<g ref="char:EOLhyphen"/>teen hundred Years; How violently did the <hi>Romans</hi> endeavour to cruſh down the ſpreading of the Goſpel, that he ſaith in his <hi>Epiſtle Dedicatory</hi> to Q. <hi>Elizabeth,</hi> that when the <hi>Records</hi> were ſearched, there was marty<g ref="char:EOLhyphen"/>red for every Day in the Year, within the Compaſs of thoſe <hi>ten bloody Per<g ref="char:EOLhyphen"/>ſecutions</hi> fifty THOUSAND Perſons, <hi>One Day</hi> only excepted; and the more they ſtrove with their Cruelty to <hi>force</hi> Mens Conſciences, and to bring Men to one <hi>Form</hi> as it were, or to their <hi>Worſhip,</hi> the wider and wider was the Breach, and they were never able to effect what they inten<g ref="char:EOLhyphen"/>ded. And great <hi>Diviſion</hi> there was in thoſe Ages for the firſt ſix hundred Years, that it would be too tedious to mention them; for I deſire rather to refer you to <hi>Euſebius</hi> and the <hi>Graecian</hi> Writers of thoſe Times, how one while the Biſhop of <hi>Conſtantinople</hi> ſtrove for Superiority, and another while the Biſhop of <hi>Rome,</hi> though there was for the moſt Part the Biſhops of <hi>Jeruſalem, Antioch, Alexandria</hi> and <hi>Rome,</hi> ſtriving one againſt another; and as <hi>Darkneſs</hi> and <hi>Apoſtacy</hi> got in, the Strife grew greater and greater, till at laſt, ſix hundred Years being expired, the Biſhop of <hi>Rome</hi> uſurpt over all the reſt with his <hi>Tyranny,</hi> and brought the <hi>Kings</hi> and <hi>Emperours</hi> of the Earth in <hi>Subjection</hi> to him, as doth appear by the Hiſtories of thoſe Times: And when he had all the Power he could deſire, to <hi>make Laws,</hi> and <hi>force</hi> Men's Conſciences to an <hi>
+                  <g ref="char:V">Ʋ</g>niformity</hi> of Worſhip, and the Ru<g ref="char:EOLhyphen"/>lers of thoſe Nations to be at his, and his <hi>Cardinals</hi> and <hi>Biſhops Becks,</hi> to put in Execution what they pleaſed, How many then ſuffered divers Sorts of <hi>Cruel Torments</hi> with <hi>Fire</hi> and <hi>Faggot, Racking, Impriſoning</hi> and <hi>Torturing,</hi> as witneſs the Teſtimonies given by <hi>J. Fox</hi> in his aforeſaid <hi>Act &amp; Monuments,</hi> as the <hi>Wal<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ienſes, John Wickliff</hi> and his Followers here in <hi>England;</hi> and the Laws that were made againſt them are yet extant to be ſeen, and the <hi>Cruelty</hi> exerciſed upon thoſe Godly Men at a Place called <hi>Bangar</hi> near <hi>Wales,</hi> and though they <hi>burned</hi> them, <hi>confiſcated</hi> their Eſtates: And for all they uſed all the Cruelty Imaginable to ſuppreſs thoſe godly Men that followed <hi>John Wickliff</hi> here in <hi>England</hi> they never could effect their Will; God preſerved the honeſt-hearted, though they made many
+<pb n="6" facs="tcp:33149:4"/>
+               <hi>Hypocrites;</hi> but the more they ſtrove, the wider and wider grew the <hi>Breach,</hi> and the Lord proſpered the <hi>
+                  <g ref="char:V">Ʋ</g>pright in Heart,</hi> though many of them went through the <hi>Flames of Fire,</hi> yet their <hi>faithful Sufferings</hi> reach<g ref="char:EOLhyphen"/>ed God's Witneſs in Peoples Hearts, who <hi>hated</hi> and <hi>abhorred</hi> thoſe Dealings, and the <hi>Papiſts</hi> they made themſelves <hi>ſtinck</hi> in the Noſtrils of the Commonality, until their Faithfulneſs had reached thoſe that after came into <hi>Authority,</hi> and the <hi>Romiſh</hi> Faction was abhorred, and had loſt their Intereſt in the <hi>Common People</hi> alſo, and ſo the other came over their Heads; and after the ſame Manner came it to paſs in <hi>Bohemia,</hi> and <hi>Cer<g ref="char:EOLhyphen"/>many,</hi> and <hi>Scotland,</hi> and divers other Countries, by their ſo vehemently ſtriving for an <hi>
+                  <g ref="char:V">Ʋ</g>niformity,</hi> they made themſelves every where almoſt ri<g ref="char:EOLhyphen"/>diculous, and ſo loſt all; and to relate the many and divers Sorts of <hi>Cruel Laws</hi> that were made to effect this, would be too tedious at this Time: And the moſt miſerable ſuffering State of the poor oppreſſed conſciencious People, how they were <hi>Racked, Torn, Burned,</hi> and <hi>Whipped,</hi> and <hi>Star<g ref="char:EOLhyphen"/>ved</hi> in naſty Priſons, <hi>deſtroyed</hi> in <hi>Life, Property, Rights, Priviledges</hi> and <hi>Eſtates,</hi> would alſo require a large Volumn to give you the Heads there<g ref="char:EOLhyphen"/>of; and what hath it all tended to, but to the provoaking God's Wrath, and heavy <hi>Indignation</hi> upon the Heads of the Oppreſſors, who were blin<g ref="char:EOLhyphen"/>ded with <hi>Blind Zeal,</hi> and acted to do the <hi>Drudgery</hi> and <hi>Service</hi> of the Devil, who ſeeks to ſet one Neighbour againſt another, and kindle Strife and Hatred one againſt another with his manifold Devices?</p>
+            <p>And truly, within the Remembrance of our Time, and in the Dayes of our Fathers, what ſtrange Ruptures have hapen'd in the Land of our <hi>Na<g ref="char:EOLhyphen"/>tivity,</hi> and the chief Ground ſprung from the Oppreſſions of Mens Con<g ref="char:EOLhyphen"/>ſcience; each People, as they grew up into <hi>Authority,</hi> endeavour'd to ſet up their own <hi>Way</hi> and <hi>Form of Worſhip,</hi> and force others, and then thoſe that were oppreſt, bonded together to <hi>ſupplam</hi> the other, and all or moſt<g ref="char:EOLhyphen"/>ly under <hi>Religious Pretences.</hi> Oh the moſt <hi>Dreadful Bloodſheds</hi> that have hapen'd, <hi>Brother againſt Brother,</hi> and <hi>nigh Kinſman againſt Kinſman,</hi> and <hi>Neighbour againſt Neighbour!</hi> And all hath hapen'd and come to paſs by Mens Minds being alienated from the <hi>Spirit of God</hi> which ſhines in their own Hearts, reproving them for their Evil Thoughts and Deeds, which if it were but learned, and Men guided by it, it would lead Men to do as they <hi>would be done by,</hi> and ſeek their Neighbours and Country's Good as their own, giving to every Man as he himſelf would have h<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mſelf the <hi>Free Liberty</hi> of his Conſcience, that ſo one Neighbour might live quietly by another.</p>
+            <p>And truly, I might have inſtanced many Particulars more to you, ho<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>deſtructive</hi> to Nation and People, Trades and Imployments, thoſe <hi>Attem<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ndertaking</hi> have proved, of ſeeking to <hi>force</hi> an <hi>
+                  <g ref="char:V">Ʋ</g>niformity</hi> in Matte<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="7" facs="tcp:33149:4"/>of <hi>Religion</hi> and <hi>Worſhip;</hi> but being perſwaded in my ſelf, that if it pleaſe God, you come but to a <hi>ſerious Conſideration</hi> of thoſe Things, and caſt your Eye backwards into the ancient <hi>Ages</hi> of the World, to ſee what evil Conſequences thoſe perſecuting Actions have produced, you will be with us convinced in your Hearts, that it is not a right Spirit that leads Men thus <hi>evilly</hi> to do to their Neighbours, to deſtroy them in <hi>Life, Liberty, Pro<g ref="char:EOLhyphen"/>perty</hi> or <hi>Eſtate;</hi> and that they are the Miniſters of <hi>Anti-chriſt</hi> who thus would, and all along have put on the Magiſtrates to oppreſs and deſtroy their <hi>free-born Country-Men,</hi> in <hi>Life, Liberty, Property</hi> or <hi>Eſtates,</hi> and all for Matters of <hi>Conſcience-ſake,</hi> though many of them are, and have been, <hi>honeſt, ſober, temperate</hi> and <hi>godly</hi> Livers in the midſt of their Neigh<g ref="char:EOLhyphen"/>bours in this the <hi>Land of their Nativity;</hi> ſurely, they have never conſi<g ref="char:EOLhyphen"/>dered what Chriſt ſaid to his Apoſtles, when the <hi>Tares</hi> were grown up a<g ref="char:EOLhyphen"/>mongſt the <hi>Wheat,</hi> ſaid they, <hi>ſhall we pull out the Tares from amongſt the Wheat?</hi> and he ſaid, <hi>Nay, leſt therewith you pull up the Wheat alſo:</hi> So that if you will keep thoſe Laws in <hi>Force</hi> that oppreſs us for our Conſciences. I will aſſure you, you will ſooner, and aſſuredly hurt thoſe that are <hi>honeſt, godly, ſober,</hi> and <hi>conſcientious,</hi> and dare not for the very <hi>Holy Fear</hi> and <hi>Re<g ref="char:EOLhyphen"/>verence</hi> they bear in their Hearts to God, do that which may grieve his good Spirit, then thoſe that are <hi>looſe, hypocritical Diſſemblers</hi> both with God and Men; for thoſe will turn every Way to ſave themſelves, and you will never get hold of them, do what you can: But if you do by your Laws de<g ref="char:EOLhyphen"/>ſtroy thoſe ſober, godly, temperate and conſcientious Men, that live in the midſt of your Land in <hi>Life, Perſon, Eſtates</hi> or <hi>Property,</hi> as many hundreds have been, to the utter Ruin of them and their Families, within theſe twelve years, I am ſatisfied, it will provoak God's Judgments upon this our Land yet more &amp; more: Surely, many of you ſometimes cannot but be in a Sence of the moſt abominable Wickedneſſes that abound in this Land, and you may remember, that if there had been but <hi>ten Righteous Perſons</hi> in <hi>Sodom,</hi> God had not deſtroyed them, that wicked Generation had been delivered from the Plagues and heavy Wrath of God for their ſakes; but there were not, and therefore were they deſtroyed; and the Lord doth often defer his Judgments from a Nation, Kindred or People, for the ſake of thoſe that live ſoberly, godly and honeſtly in this preſent evil World: And this I deſire you to obſerve, that in all, or moſt Ages, great have been the <hi>Diffe<g ref="char:EOLhyphen"/>rences</hi> amongſt Men, Nations and People about <hi>Religi<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> and many, both before Chriſt and ſince, have been perſecuting and preſſing to force men to an <hi>
+                  <g ref="char:V">Ʋ</g>niformity</hi> through divers Ages, to that their <hi>Worſhip</hi> which then they had eſtabliſh<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d that was uppermoſt, and in vain have men endeavou<g ref="char:EOLhyphen"/>red herein; for the <hi>Diviſions</hi> are as many, and the <hi>Rent</hi> as great as ever: And do but conſider, how can you expect to effect that which through all theſe Ages and Generations is uneffected yet, notwithſtanding all the
+<pb n="8" facs="tcp:33149:5" rendition="simple:additions"/>violent Endeavours that hitherto have been projected and put in Practice.</p>
+            <p>And my Souls Deſire is, that you might conſider how many formerly have been and are like to be ruin'd in <hi>Liberty, Property</hi> &amp; <hi>Eſtates,</hi> if you continue thoſe <hi>Laws in force:</hi> Are not the very <hi>Worſt</hi> ſort of Livers turn'd looſe upon us? and have they not the <hi>Juſtices of Peace</hi> at command to take away our <hi>Eſtates</hi> in the ſight of the Sun; or forfeit <hi>a hundred Pound,</hi> nay, notwithſtanding we have a <hi>Witneſs</hi> for us, both in your Conſciences, and the People of the Nation, that <hi>We are moſt of us Men of Honeſt, Sober and Temperate Lives amongſt our Neighbours</hi> in the places where we live?</p>
+            <p>And for your Good do I deſire you would conſider it, leſt in the Hour of Death you may have Cauſe to <hi>Mourn</hi> without Hope for it.</p>
+            <p>And truly, <hi>Friends</hi> &amp; <hi>Countrymen,</hi> God knows my Heart, I deſire your Souls real Good, as my own, and that not one of you may <hi>touch the Lord's Anointed,</hi> or <hi>do his Prophets any Harm;</hi> for he takes it as done to himſelf, as you may read in <hi>Mat.</hi> 25. Though I am ſatisfied, there are many of you, that do not deſire to have a hand in hurting thoſe you ſee <hi>live honeſtly</hi> and <hi>ſoberly,</hi> and therefore from a true and real Love to your Souls was I drawn by the Lord, to ſignifie theſe things to you, deſiring that you may <hi>mind his good Spirit, that waits, and long hath waited to ſhew Mercy on you and ſhews and manifeſts what is Good, and what is Evil; and leads to Do as you and we would be done by.</hi>
+            </p>
+            <p>And in the late little Time of <hi>Liberty,</hi> freely to exerciſe the <hi>Liberty</hi> of their <hi>Conſciences,</hi> much quieter hath the Nation been; and more comfortably hath one Neighbour lived with another, then when one Neighbour was forced at the Information of an <hi>Informer,</hi> to ſpoil another in <hi>Goods, Pro<g ref="char:EOLhyphen"/>pertie</hi> and <hi>Eſtate,</hi> diſobliging <hi>Intereſt</hi> and <hi>Kindreds,</hi> ruinating many ſober <hi>Tenants, Tradeſmen</hi> and <hi>Freeholders.</hi> And I am perſwaded, make as ſtrict <hi>Laws</hi> amongſt you as you pleaſe, we ſhall never grudg you to keep the <hi>Government</hi> in your hands that are of that Perſwaſion, and to conſtrain men <hi>to live a Godly, Sober and Temperate Life</hi> as much as may be: For that which we deſire is, <hi>only to paſs quietly through our ſhort Pilgrimage in this World, with the free Exerciſe as to matter of Worſhip of our Conſciences.</hi> And ſo what I have here ſignified to you, I deſire to recommend to God's <hi>Holy Spirit,</hi>
+               <note place="margin">Joh. <hi>1. to</hi> ver. <hi>11.</hi>
+               </note> that <hi>John,</hi> the Baptiſt, and <hi>John</hi> the Apoſtle both bore Witneſs of, was the <hi>True Light, which ligh<g ref="char:EOLhyphen"/>teth every man which cometh and is come into the World.</hi> And, <hi>He came into the World, but the World received him not; but to as many as received him, to them he gave Power to become the Sons of God.</hi> And is that <hi>Word of Life,</hi> and <hi>Grace of God,</hi>
+               <note place="margin">Tit. 2.11.</note> 
+               <hi>whi<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h brings Salvation, and hath plentifully appear'd to all men.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>17th of the 2d Month, 1675.</date>
+               </dateline>
+               <signed>Tho. Hutchinſon.</signed>
+            </closer>
+            <pb facs="tcp:33149:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
